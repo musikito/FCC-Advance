@@ -24,6 +24,6 @@ function sumPrimes(num) {
       }
      }
     return sum;
-    // returns 17 - the correct answer. 
+    
    }
    sumPrimes(10);
