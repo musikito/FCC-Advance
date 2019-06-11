@@ -12,4 +12,4 @@ function sumAll(arr) {
   return sum;
 }
 
-console.log(sumAll([1, 4]));
+console.log(sumAll([4, 1]));
