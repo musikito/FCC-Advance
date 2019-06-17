@@ -1,5 +1,7 @@
 function diff(arr1, arr2) {
   //merge both arrays to make it easy to compare
+  //can also use the spread operator to concatenate them
+  //let newvar = [...arr1, ...arr2]
   var newArr = arr1.concat(arr2);
 
   function check(item) {
